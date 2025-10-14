@@ -36,3 +36,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### <!-- 0 -->🎉 Added
 
 - replace `test_utils` with `test_utils_insta`
+
+<!-- Auto-update: 2025-10-14T08:02:25.818015 -->
